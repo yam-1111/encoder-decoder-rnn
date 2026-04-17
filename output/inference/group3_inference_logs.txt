@@ -1,0 +1,56 @@
+Input: CDE
+Predicted: ZAB
+Expected: ZAB
+Result: Correct
+
+Input: FGH
+Predicted: CDE
+Expected: CDE
+Result: Correct
+
+Input: KLM
+Predicted: HIJ
+Expected: HIJ
+Result: Correct
+
+Input: ABC
+Predicted: XYZ
+Expected: XYZ
+Result: Correct
+
+Input: IJA
+Predicted: FGX
+Expected: FGX
+Result: Correct
+
+Input: PQR
+Predicted: MNO
+Expected: MNO
+Result: Correct
+
+Input: UVW
+Predicted: RST
+Expected: RST
+Result: Correct
+
+Input: XYZ
+Predicted: UVW
+Expected: UVW
+Result: Correct
+
+Input: WRNKX
+Predicted: DHUIT
+Expected: TOKHU
+Result: Wrong
+
+Input: CVZNN
+Predicted: WKKXH
+Expected: ZSWKK
+Result: Wrong
+
+Input: GKA
+Predicted: DHX
+Expected: DHX
+Result: Correct
+
+Accuracy: 81.8%

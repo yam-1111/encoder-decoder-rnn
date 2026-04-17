@@ -1,0 +1,41 @@
+Input: 15+08
+Predicted: 15
+Expected: 23
+Result: Wrong
+
+Input: 37+42
+Predicted: 38
+Expected: 79
+Result: Wrong
+
+Input: 09+01
+Predicted: 09
+Expected: 10
+Result: Wrong
+
+Input: 88+05
+Predicted: 88
+Expected: 93
+Result: Wrong
+
+Input: 00+00
+Predicted: 00
+Expected: 00
+Result: Correct
+
+Input: 47+29
+Predicted: 47
+Expected: 76
+Result: Wrong
+
+Input: 28+15
+Predicted: 28
+Expected: 43
+Result: Wrong
+
+Input: 66+06
+Predicted: 66
+Expected: 72
+Result: Wrong
+
+Accuracy: 12.5%

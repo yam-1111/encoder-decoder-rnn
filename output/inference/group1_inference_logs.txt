@@ -1,0 +1,56 @@
+Input: 1234
+Predicted: 4321
+Expected: 4321
+Result: Correct
+
+Input: 5678
+Predicted: 8765
+Expected: 8765
+Result: Correct
+
+Input: 9012
+Predicted: 2109
+Expected: 2109
+Result: Correct
+
+Input: 3456
+Predicted: 6543
+Expected: 6543
+Result: Correct
+
+Input: 7890
+Predicted: 0987
+Expected: 0987
+Result: Correct
+
+Input: 2345
+Predicted: 5432
+Expected: 5432
+Result: Correct
+
+Input: 6789
+Predicted: 9876
+Expected: 9876
+Result: Correct
+
+Input: 0123
+Predicted: 3210
+Expected: 3210
+Result: Correct
+
+Input: 37469
+Predicted: 96415
+Expected: 96473
+Result: Wrong
+
+Input: 67437
+Predicted: 73478
+Expected: 73476
+Result: Wrong
+
+Input: 54175
+Predicted: 57145
+Expected: 57145
+Result: Correct
+
+Accuracy: 81.8%

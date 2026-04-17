@@ -1,0 +1,56 @@
+Input: 101
+Predicted: 1010
+Expected: 1010
+Result: Correct
+
+Input: 000
+Predicted: 0000
+Expected: 0000
+Result: Correct
+
+Input: 111
+Predicted: 1111
+Expected: 1111
+Result: Correct
+
+Input: 010
+Predicted: 0101
+Expected: 0101
+Result: Correct
+
+Input: 110
+Predicted: 1100
+Expected: 1100
+Result: Correct
+
+Input: 001
+Predicted: 0011
+Expected: 0011
+Result: Correct
+
+Input: 100
+Predicted: 1001
+Expected: 1001
+Result: Correct
+
+Input: 011
+Predicted: 0110
+Expected: 0110
+Result: Correct
+
+Input: 10001
+Predicted: 001101
+Expected: 100010
+Result: Wrong
+
+Input: 001
+Predicted: 0011
+Expected: 0011
+Result: Correct
+
+Input: 00010
+Predicted: 010101
+Expected: 000101
+Result: Wrong
+
+Accuracy: 81.8%
